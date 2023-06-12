@@ -20,5 +20,7 @@ Create a new project by typing:
 
 Interact with Rasa using the terminal window and when prompted to "Do you want to train an initial model?" answer it as "💪🏽 Yes". 
 
-Then you can chat with your bot interactively!
+Type `rasa shell` to open the interactive terminal where you can chat with the rasa bot interactively!
+
+
 
